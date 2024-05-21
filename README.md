@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Flopsterstream
-- 👀 I’m interested in cats
-- 🌱 I’m currently learning python, javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord (flopsterstream)
+- 👀 I’m interested in: cats
+- 🌱 I’m currently learning python(i dont know it well), javascript
+- 📫 How to reach me: discord (flopsterstream)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 <!---
 Flopsterstream/Flopsterstream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
