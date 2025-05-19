@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flopsterstream
 - 👀 I’m interested in: cats
-- 🌱 I’m currently learning python(i dont know it well), javascript
+- 🌱 I’m currently learning python(i dont know it well), javascript, Java
 - 📫 How to reach me: discord (flopsterstream)
 - 😄 Pronouns: He/Him
 
